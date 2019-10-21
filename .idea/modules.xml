@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/python project/.idea/python project.iml" filepath="G:/python project/.idea/python project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qunar_spider-master.iml" filepath="$PROJECT_DIR$/.idea/qunar_spider-master.iml" />
+    </modules>
+  </component>
+</project>
